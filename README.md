@@ -22,7 +22,6 @@ LabControl é um aplicativo desenvolvido em **React Native** para o controle de 
 A estrutura do projeto segue uma organização modular, onde cada funcionalidade está bem separada em pastas:
 
 
-
-![Tela de Dashboard](assets\images\telaDashboard.jpg)
-![Tela de Login](assets\images\telaLogin.png)
-![Tela de Cadastro de Equipamentos](assets\images\telaCadastro.png)
+![Tela de Dashboard](assets/images/telaDashboard.jpg)
+![Tela de Login](assets/images/telaLogin.png)
+![Tela de Cadastro de Equipamentos](assets/images/telaCadastro.png)
